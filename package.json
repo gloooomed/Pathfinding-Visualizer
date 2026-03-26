@@ -1,7 +1,9 @@
 {
   "name": "pathfinder",
   "version": "0.1.0",
-  "private": true, "author": "rahul kumar", "repository": "https://github.com/ksrahul23/Path-Finder-Algo",
+  "private": true,
+  "author": "rahul kumar",
+  "repository": "https://github.com/ksrahul23/Path-Finder-Algo",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -10,7 +12,7 @@
   },
   "dependencies": {
     "leaflet": "^1.9.4",
-    "next": "15.4.7",
+    "next": "^16.2.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-leaflet": "^5.0.0"
